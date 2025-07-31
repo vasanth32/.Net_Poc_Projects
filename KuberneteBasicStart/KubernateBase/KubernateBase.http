@@ -1,0 +1,6 @@
+@KubernateBase_HostAddress = http://localhost:5149
+
+GET {{KubernateBase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
